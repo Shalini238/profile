@@ -4,13 +4,17 @@
 📊 Interested in Data Science  
 🌱 Currently learning Machine Learning  
 
-## Skills
-- Python
-- Machine Learning
-- Pandas
-- NumPy
-- OpenCV
-- HTML / CSS
+## 💻 Code In
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,c,mysql" />
+
+## 🛠 IDE & Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,github,figma" />
+
+## 📊 Analytics Tools
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas" />
 
 ## Projects
 - Email Spam Detection
