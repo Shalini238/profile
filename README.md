@@ -16,6 +16,11 @@
 
 <img src="https://skillicons.dev/icons?i=numpy,pandas" />
 
+## 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/s_h_a_l_u_52?theme=light\&font=Baloo\&ext=heatmap)](https://leetcode.com/u/s_h_a_l_u_52/)
+
+
 ## Projects
 - Email Spam Detection
 - Object Detection using OpenCV
