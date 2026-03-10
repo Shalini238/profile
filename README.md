@@ -20,6 +20,9 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150
+  
+## GitHub 
+![LeetCode Stats](https://leetcard.jacoblin.cool/s_h_a_l_u_52?theme=dark&font=Montserrat%20Alternates&ext=contest)
 
 ## Connect with me
 GitHub: https://github.com/Shalini238
