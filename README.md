@@ -24,7 +24,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shalini238\&theme=radical)
 
 
 ## Projects
