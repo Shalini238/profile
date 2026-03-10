@@ -21,17 +21,5 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150
 
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shalini238\&theme=radical)
-
-
-## Projects
-- Email Spam Detection
-- Object Detection using OpenCV
-- Face Recognition System
-- Data Cleaning using Python
-
 ## Connect with me
 GitHub: https://github.com/Shalini238
