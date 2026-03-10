@@ -22,9 +22,9 @@
 <img src="https://img.shields.io/badge/Pandas-150
 
 
-## 🧠 LeetCode Stats
+## 🔥 GitHub Streak
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/s_h_a_l_u_52?theme=dark\&font=Baloo\&ext=heatmap)
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername\&theme=radical)
 
 
 ## Projects
